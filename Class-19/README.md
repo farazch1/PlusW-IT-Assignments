@@ -19,9 +19,5 @@ This repo contains YAML files and Ansible playbooks from Class 19 on Streamlinin
 - deploy_django.yml: Deploy Django with Ansible.
 - inventory.ini: Ansible hosts.
 
-## Usage
-1. Clone: git clone https://github.com/your-username/ansible-yaml-project.git
-2. Install Ansible: sudo apt install ansible
-3. Run playbook: ansible-playbook -i inventory.ini install_nginx.yml
 
 Deployed on Ubuntu EC2. #DevOps #Ansible #YAML
